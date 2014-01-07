@@ -1,5 +1,7 @@
-This is some demo f# code for my blog post http://grapeot.me/post/2012/05/16/Computing-F-revisited.aspx
+# F# demos
 
-The function of turtle.fs is to implement a turtle graphics system, and draw some fractural shape on it.
+This is some demo f# code for [my blog post](https://grapeot.me/f-revisited.html).
 
-Mandelbrot.fs draws the Mandelbrot set z = z ^ 2 + c with asynchronous and parallel computing enabled in f#.
+`turtle.fs` implements a turtle graphics system, and draws some fractural shape on it.
+
+`Mandelbrot.fs` draws the Mandelbrot set `z = z ^ 2 + c` with asynchronous and parallel computing enabled in F#.
